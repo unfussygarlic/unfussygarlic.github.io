@@ -1,9 +1,10 @@
 # Personal Portfolio
 
 To-Do:
-- [x] basic HTML layout
-- [x] basic style sheet
-- [x] some animations as try out
+- [x] Basic HTML layout
+- [x] Basic style sheet
+- [x] Some animations as try out
 - [ ] Change color pallette
-- [ ] Add smooth scroll
+- [x] Add smooth scroll
 - [ ] Change `source code` button
+- [x] Chage for mobile view
