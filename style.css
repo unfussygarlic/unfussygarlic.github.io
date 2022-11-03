@@ -73,6 +73,22 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: #d61212;
 }
+.resume-button{
+    /* margin-top: 2%; */
+    font-size: 20px;
+}
+.resume-button a{
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    background-color: #d61212;
+    padding: 14px 25px;
+    text-align: center;
+}
+.resume-button a:hover{
+    background-color: #fff;
+    color: #d61212;
+}
 
 .header-brain img{
     position: relative;
